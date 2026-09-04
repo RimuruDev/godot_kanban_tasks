@@ -36,3 +36,6 @@ I wanted the plugin to be findable with the keywords `kanban`, `todo` and `tasks
 
 To build a release version of the plugin and standalone versions use the `res://build_logic/bundle.gd` utility. It ensures that the license is correctly included in the distributed zips.
 The build script is only supported on linux.
+
+
+- [ ] Add ru lang
